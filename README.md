@@ -4,5 +4,6 @@ Gemstone Price Prediction is a cutting-edge application that uses machine learni
 
 
 
-https://github.com/MrYasssh/Gemstone-Price-Prediction/assets/103739179/e6575aa1-4453-45e9-9b78-8c7e4750598e
+https://github.com/MrYasssh/Gemstone-Price-Prediction/assets/103739179/e77dd598-c734-43a6-9c51-7ac53363662b
+
 
